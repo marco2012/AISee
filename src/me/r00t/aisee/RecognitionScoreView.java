@@ -44,6 +44,7 @@ public class RecognitionScoreView extends View implements ResultsView, TextToSpe
   public RecognitionScoreView(final Context context, final AttributeSet set) {
     super(context, set);
 
+
     textSizePx =
         TypedValue.applyDimension(
             TypedValue.COMPLEX_UNIT_DIP, TEXT_SIZE_DIP, getResources().getDisplayMetrics());
