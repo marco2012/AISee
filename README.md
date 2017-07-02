@@ -1,7 +1,4 @@
-# TensorFlow Android Camera Demo
-
-This folder contains an example application utilizing TensorFlow for Android
-devices.
+# TensorFlow Android Camera
 
 ## Description
 
