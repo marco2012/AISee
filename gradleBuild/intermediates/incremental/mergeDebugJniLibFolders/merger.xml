@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Volumes/Marco/AndroidStudioProjects/AI See/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Volumes/Marco/AndroidStudioProjects/AI See/build-types/debug/jniLibs"/></dataSet></merger>

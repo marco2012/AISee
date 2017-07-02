@@ -1,0 +1,450 @@
+[
+    {
+        "outputFile": "/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 54,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 69,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 69,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 42,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endColumn": 42,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 43,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 43,
+                        "endOffset": 888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 44,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 44,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 42,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 42,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 41,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 41,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 67,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 67,
+                        "endOffset": 1105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 63,
+                    "endOffset": 709
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 63,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 714,
+                    "endColumn": 61,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 61,
+                        "endOffset": 825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 60,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 830,
+                        "endColumn": 60,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 43,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 43,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 82,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 82,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 49,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 49,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 97,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 97,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 50,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 51,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 94,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 95,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 59,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 60,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1451,
+                    "endColumn": 52,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 53,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endColumn": 26,
+                    "endOffset": 1526
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 27,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1531,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1722
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1727,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "/Volumes/Marco/AndroidStudioProjects/AI See/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1088,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1361
+                    }
+                }
+            }
+        ]
+    }
+]

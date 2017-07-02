@@ -1,0 +1,4 @@
+#Sun Jul 02 12:39:42 CEST 2017
+base.0=/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_cae8dbae0200ab8b52a8efb887f2e38d3da93f72
+renamed.0=classes.dex
+file.0=/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_cae8dbae0200ab8b52a8efb887f2e38d3da93f72/classes.dex

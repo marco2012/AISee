@@ -1,0 +1,7 @@
+#Sun Jul 02 12:49:52 CEST 2017
+base.0=/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d97b2be7f1681d2f59411167a4dc2e4ae8f97c15
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1165d3e68cb6b87e606bd8f380e1a0a4f31dd918/classes.dex
+base.1=/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1165d3e68cb6b87e606bd8f380e1a0a4f31dd918
+file.0=/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d97b2be7f1681d2f59411167a4dc2e4ae8f97c15/classes.dex

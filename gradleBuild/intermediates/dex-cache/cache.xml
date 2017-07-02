@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="799d0f70ce6b137b799c890cd8052d9f9fba7c7e">
+        <dex dex="/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d97b2be7f1681d2f59411167a4dc2e4ae8f97c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/Marco/AndroidStudioProjects/AI See/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1165d3e68cb6b87e606bd8f380e1a0a4f31dd918/classes.dex" />
+    </item>
+
+</items>
